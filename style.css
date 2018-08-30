@@ -1,0 +1,35 @@
+
+ 
+  
+  
+
+  body {
+    
+    font-size: 18px;
+    background-color: #777
+  
+    
+  }
+  
+
+  article{
+      color: #ebebeb;
+  }
+  
+h1{
+    color:black;
+    text-align: center;
+}
+section{
+    width: 495px;
+}
+ aside{
+     text-align: left;
+ }
+ footer{
+     text-align: center;
+ }
+
+  
+ 
+  
